@@ -15,7 +15,10 @@ Berikut adalah kategori ebook yang tersedia di repository ini:
 1. Klik pada kategori yang diinginkan.  
 2. Pilih buku yang ingin diunduh.  
 3. Klik tombol **Download** atau gunakan perintah `git lfs pull` jika menggunakan Git LFS.  
-
+4. download semua buku dengan
+```bash
+git clone https://github.com/yusuf601/Buku-gua.git
+```
 ## ⚠️ Disclaimer  
 Semua ebook yang ada di repository ini hanya untuk keperluan edukasi dan pembelajaran pribadi. Jika kamu menyukai bukunya, dukung penulis dengan membeli versi resminya!  
 
